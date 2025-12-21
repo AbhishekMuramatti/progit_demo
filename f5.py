@@ -1,5 +1,5 @@
-a = 57
-b = 43
+a = 157
+b = 143
 
 sum = a + b
 print("Sum:", sum)
