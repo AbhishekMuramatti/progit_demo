@@ -4,5 +4,3 @@ b = 143
 sum = a + b
 print("Sum:", sum)
 
-sum = a - b
-print("Sub:", sub)
